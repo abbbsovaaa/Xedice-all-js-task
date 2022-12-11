@@ -1,4 +1,4 @@
-let txt = 'alion'
-txt[0] = 'A'
-txt = 'A' + txt[1] + txt[2]+txt[3]+txt[4]
-console.log(txt)
+function toCapitalCase(str){
+    return str[0].toUpperCase()+str.slice(1,str.length)
+}
+console.log(toCapitalCase("ali"))
