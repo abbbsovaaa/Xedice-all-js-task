@@ -1,27 +1,27 @@
-function Ders (bazarertesi , cersenbeaxsami , cersenbe , cumeaxsami, cume , senbe , bazar){
-    this.bazarertesi= ()=>{
+function Ders(bazarertesi, cersenbeaxsami, cersenbe, cumeaxsami, cume, senbe, bazar) {
+    this.bazarertesi = () => {
         alert('bu gun kursa getmelisen ')
     }
-    this.cersenbeaxsami =()=>{
+    this.cersenbeaxsami = () => {
         alert('bu gun kursa getmelisen ')
     }
-    this.cersenbe=()=>{
+    this.cersenbe = () => {
         alert('bu gun kursa getmelisen ')
     }
-    this.cumeaxsami=()=>{
+    this.cumeaxsami = () => {
         alert('bu gun kursa getmelisen ')
     }
-    this.cume=()=>{
+    this.cume = () => {
         alert('bu gun kursa getmelisen ')
     }
-    this.senbe=()=>{
+    this.senbe = () => {
         alert('bu gun kurs yoxdu')
     }
-    this.bazar=()=>{
+    this.bazar = () => {
         alert('bu gun kurs yoxdu ')
     }
 }
-const ders = new Ders ()
+const ders = new Ders()
 ders.bazarertesi()
 ders.cersenbeaxsami()
 ders.cersenbe()
