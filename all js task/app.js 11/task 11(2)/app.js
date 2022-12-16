@@ -1,3 +1,4 @@
+// A: bu qeder ehtiyac yoxdur. Sadece, yas alib 77-den onu cixmaq lazimdir. 
 function Yas(yas) {
     this.yas = yas
     let yasUsage = +prompt('Nece yasiniz var?')

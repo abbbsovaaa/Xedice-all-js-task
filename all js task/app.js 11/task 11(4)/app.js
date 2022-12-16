@@ -1,5 +1,6 @@
-function Ders(bazarertesi, cersenbeaxsami, cersenbe, cumeaxsami, cume, senbe, bazar) {
-    this.bazarertesi = () => {
+// A: yanlisdir teessuf(((
+function Ders (bazarertesi , cersenbeaxsami , cersenbe , cumeaxsami, cume , senbe , bazar){
+    this.bazarertesi= ()=>{
         alert('bu gun kursa getmelisen ')
     }
     this.cersenbeaxsami = () => {
