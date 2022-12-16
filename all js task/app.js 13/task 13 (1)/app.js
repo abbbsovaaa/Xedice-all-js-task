@@ -10,3 +10,4 @@ function removeElement(arr, eded) {
 
 
 console.log(removeElement([1, 2, 3, 4], 3))
+console.log(removeElement([1, 2, 3, 4], 4))
