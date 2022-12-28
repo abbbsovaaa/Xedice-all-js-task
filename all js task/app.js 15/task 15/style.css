@@ -1,0 +1,24 @@
+button {
+    border-radius: 50%;
+    width: 150px;
+    height:150px;
+
+}
+
+#red {
+    background-color: red;
+    border-radius: 50%;
+}
+
+#black {
+    background-color: black;
+    border-radius: 50%;
+}
+
+#green {
+    background-color: green;
+    border-radius: 50%;
+}
+#gold{
+    background-color: gold;
+}
