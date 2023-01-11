@@ -1,3 +1,4 @@
+// A: done ✅
 const redBtn = document.getElementById('red')
 const blackBtn = document.getElementById('black')
 const greenBtn = document.getElementById('green')
